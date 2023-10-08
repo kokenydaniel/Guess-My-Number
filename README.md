@@ -4,7 +4,7 @@
 
 <h1 align="center">Guess My Number game</h1>
 
-### <h3 align="center"> [Live]()</h3>
+### <h3 align="center"> [Live](https://kokenydaniel.github.io/Guess-My-Number/)</h3>
 
 ## About The Project
 
